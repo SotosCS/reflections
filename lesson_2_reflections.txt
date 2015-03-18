@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 it creates a hidden .git file. In order to make it suitable for git operations.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is temporary area before committing any changes to the repository. It is safe because you can see/track changed to be committed.
